@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-toast",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Simple Toast for react-native. In Android it's just native toast, in iOS it's https://github.com/scalessec/Toast",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vonovak/react-native-simple-toast.git"
+    "url": "git+https://github.com/baryshok/react-native-simple-toast.git"
   },
   "author": "xgfe",
   "license": "MIT"
